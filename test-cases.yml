@@ -127,7 +127,7 @@
   expected-result: |
     Получаем уведомление "Succsesfully updated authentication settings"
 
- - summary: |
+- summary: |
     Проверка успешной авторизации пользователя с помощью Github
   requirement: |
     При нажати  "Sign in with Github" пользователь входит в систему
@@ -591,7 +591,7 @@
   expected-result: |
     Пользователь вышел из игры
 
- - summary: |
+- summary: |
     Проверка возможности остаться в игре после победы
   requirement: |
     После победы игрок должен иметь возможность остаться и посмотреть ещё раз на свой код 
